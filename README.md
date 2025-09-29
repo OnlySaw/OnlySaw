@@ -17,6 +17,8 @@
 
 #### Play Game With Me
 
+###
+
 <img src="https://raw.githubusercontent.com/OnlySaw/OnlySaw/output/snake.svg" alt="Snake animation" />
 
 ###
